@@ -1,4 +1,5 @@
 #!/bin/bash -x 
 
 echo "hello world "
-echo "Jaya guru datta"
+# Fixing capital letters. 
+echo "Jaya Guru Datta"
