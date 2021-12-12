@@ -1,4 +1,7 @@
 #!/bin/bash -x 
 
-echo "Hello World "
-echo "Sri, Jaya guru datta "
+
+echo "hello world "
+# Respects are also required. Capitalization also required AP. 
+echo "Sri, Jaya Guru Datta"
+
