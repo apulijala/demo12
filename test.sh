@@ -1,5 +1,6 @@
 #!/bin/bash -x 
 
 echo "hello world "
-# Fixing capital letters. 
-echo "Jaya Guru Datta"
+# Respects are also required. Capitalization also required AP. 
+echo "Sri, Jaya Guru Datta"
+
