@@ -1,5 +1,4 @@
 #!/bin/bash -x 
 
-echo "hello world "
-echo "Sri, Jaya guru datta"
-
+echo "Hello World "
+echo "Sri, Jaya Guru Datta "
